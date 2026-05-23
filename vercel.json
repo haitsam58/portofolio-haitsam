@@ -1,0 +1,17 @@
+{
+  "headers": [
+    {
+      "source": "/foto1.jpeg",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noimageindex"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "https://portfolio-haitsam.vercel.app"
+        }
+      ]
+    }
+  ]
+}
